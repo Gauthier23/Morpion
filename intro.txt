@@ -1,0 +1,15 @@
+﻿
+                              		  Bonjour et bienvenu au jeu du morpion,
+
+            Ce jeu se joue à deux. Ne soyez pas timide, appelez un-e proche ou même votre animal de compagnie !
+                          Si vous êtes plus que deux, pas de jaloux, faites donc un tournois. 
+      Attention : la partie s'annonce sanglante, mettez seulement votre console en grand écran pour jouir d'un confort optimal;)
+      
+                          			--------------------------------------------
+      
+
+     			Dans un premier temps, placez une lettre majuscule pour la colonne, suivis du numéro de la ligne. 
+							Les numéros doivent être compris entre 1 et 3 bien sûr :) 
+
+                         			 --------------------------------------------
+
